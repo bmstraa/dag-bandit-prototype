@@ -1,0 +1,12 @@
+[
+  {"question": "What is the capital of France?", "answer": "Paris", "type": "in"},
+  {"question": "What is the capital of Japan?", "answer": "Tokyo", "type": "in"},
+  {"question": "What is the chemical symbol for water?", "answer": "H2O", "type": "in"},
+  {"question": "Who wrote the novel 1984?", "answer": "George Orwell", "type": "in"},
+  {"question": "Who was the first president of the USA?", "answer": "George Washington", "type": "in"},
+  {"question": "What is the exact square root of 144?", "answer": "12", "type": "out"},
+  {"question": "What is the speed of light in kilometers per second?", "answer": "299792", "type": "out"},
+  {"question": "Who invented the telephone?", "answer": "Alexander Graham Bell", "type": "out"},
+  {"question": "What is the largest planet in our solar system?", "answer": "Jupiter", "type": "out"},
+  {"question": "What is the capital of Brazil?", "answer": "Brasilia", "type": "out"}
+]
