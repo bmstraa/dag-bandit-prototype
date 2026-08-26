@@ -139,5 +139,4 @@ Built collaboratively during an extended research dialogue, inspired by the **DA
 **Built on a phone, with zero institutional budget, in under 6 months of self‑study.**  
 If this prototype resonates with you, feel free to open an issue, submit a PR, or reach out!
 
-[![GitHub stars](https://img.shields.io/github/stars/your-username/dag-bandit-prototype.svg?style=social)](https://github.com/your-username/dag-bandit-prototype)
 ```
