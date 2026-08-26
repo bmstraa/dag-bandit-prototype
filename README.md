@@ -3,7 +3,6 @@ Prototype for dag-bandit-experiment. A zero-budget validation of confidence-gate
 ```markdown
 # DAG‑Bandit Prototype: Confidence‑Gated Tool‑Calling in a 2.3B LLM
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/dag-bandit-prototype/blob/main/notebooks/Untitled12.ipynb)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
